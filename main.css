@@ -1,0 +1,23 @@
+#pageHeading, #todayApp{
+    text-align: center;
+}
+#appointmentForm{
+    display:none;
+}
+#username, #pickyDateStart, #pickyDateEnd, #mobileNo{
+    width: 30%;
+    height: 30px;
+}
+#usernameLabel, #reasonLabel, #startDate, #endDate, #mobileLabel{
+    width: 25%;
+    display: inline-block;
+}
+#reasonTextArea{
+    vertical-align: middle;
+    width: 30%;
+    height: 200px;
+}
+
+#updateHeading, #btn-update{
+    display: none;
+}
